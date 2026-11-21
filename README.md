@@ -52,7 +52,7 @@ Flappy_Bird/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/shriihphoria/Flappy-Bird-DQN.git)
 cd Flappy_Bird
 ```
 
